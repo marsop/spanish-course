@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>Spanish Course</title>
+    <link rel="stylesheet" href="./css/reveal.css" />
+    <link rel="stylesheet" href="./css/theme/serif.css" id="theme" />
+    <link rel="stylesheet" href="./css/highlight/zenburn.css" />
+    <link rel="stylesheet" href="./css/print/paper.css" type="text/css" media="print" />
+    <link rel="stylesheet" href="./assets/presentation.css" />
+
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides"><section ><section data-markdown><script type="text/template">
+
+## Spanish Course
+
+![Hola](images/spanish.png)
+
+[Alberto Gregorio](https://albertogregorio.com)
+</script></section><section data-markdown><script type="text/template">
+## Spanish in the World
+
+Spanish is the majority language in 21 sovereign states and several dependent territories, totaling around 440 million people.
+
+![world](images/spanish_in_world.bmp)
+</script></section></section><section  data-markdown><script type="text/template">
+**Note**
+
+We will learn Spanish from Spain!
+
+![spain](images/spain.bmp)
+</script></section><section  data-markdown><script type="text/template">
+## Alphabet
+
+![alphabet](images/alphabet.bmp)
+</script></section><section  data-markdown><script type="text/template"></script></section></div>
+    </div>
+
+    <script src="./js/reveal.js"></script>
+
+    <script>
+      function extend() {
+        var target = {};
+        for (var i = 0; i < arguments.length; i++) {
+          var source = arguments[i];
+          for (var key in source) {
+            if (source.hasOwnProperty(key)) {
+              target[key] = source[key];
+            }
+          }
+        }
+        return target;
+      }
+
+      // Optional libraries used to extend on reveal.js
+      var deps = [
+        { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+        { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+        { src: './plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+        { src: './plugin/zoom-js/zoom.js', async: true },
+        { src: './plugin/notes/notes.js', async: true },
+        { src: './plugin/math/math.js', async: true }
+      ];
+
+      // default options to init reveal.js
+      var defaultOptions = {
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        dependencies: deps
+      };
+
+      // options from URL query string
+      var queryOptions = Reveal.getQueryHash() || {};
+
+      var options = extend(defaultOptions, {}, queryOptions);
+    </script>
+
+
+    <script>
+      Reveal.initialize(options);
+    </script>
+  </body>
+</html>

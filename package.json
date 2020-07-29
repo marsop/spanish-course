@@ -1,0 +1,32 @@
+{
+    "name": "presentation-spanish-course",
+    "version": "1.0.0",
+    "description": "Presentation Spanish",
+    "main": "index.js",
+    "scripts": {
+        "test": "reveal-md presentation/english.md --css presentation.css --preprocessor emoji2svgimg.js",
+        "serve": "reveal-md presentation/english.md --css presentation.css --preprocessor emoji2svgimg.js -w",
+        "build": "reveal-md presentation/english.md --css presentation.css --static docs --preprocessor emoji2svgimg.js --assets-dir=assets",
+        "export-pdf": "reveal-md presentation/english.md --css presentation.css --print english.pdf --preprocessor emoji2svgimg.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/marsop/spanish-course.git"
+    },
+    "keywords": [
+        "revealjs",
+        "akkanet",
+        "dotnet",
+        "actor_model"
+    ],
+    "author": "Alberto Gregorio",
+    "license": "CC-BY-SA-4.0",
+    "bugs": {
+        "url": "https://github.com/marsop/spanish-course/issues"
+    },
+    "homepage": "https://github.com/marsop/spanish-course#readme",
+    "dependencies": {
+        "reveal-md": "^3.4.7",
+        "twemoji": "^12.1.5"
+    }
+}
