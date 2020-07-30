@@ -67,3 +67,36 @@ Vamos a aprender español de España!
 ## Verbo tener
 
 ![tener](images/verbo_tener.bmp)
+
+--- 
+
+## Género
+
+![genero_masculino_femenino](images/genero_masculino_femenino.bmp)
+
+----
+
+## Género (2)
+
+![genero_y_numero](images/genero_y_numero.bmp)
+
+----
+
+
+## Género (personas)
+
+![genero_personas](images/genero_personas.bmp)
+
+----
+
+## Género (cosas)
+
+![genero_de_las_cosas](images/genero_de_las_cosas.bmp)
+
+----
+
+## Género (frutas)
+
+![genero_frutas](images/genero_frutas.bmp)
+
+----
