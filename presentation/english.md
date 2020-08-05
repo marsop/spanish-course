@@ -32,6 +32,12 @@ Vamos a aprender español de España!
 
 ![provincias](images/provincias.bmp)
 
+----
+
+## Estereotipos (1)
+
+![](images/estereotipos-emoticonos.jpg)
+
 ---
 
 ## El alfabeto
