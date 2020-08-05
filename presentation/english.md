@@ -64,11 +64,29 @@ Vamos a aprender español de España!
 
 ---
 
-## Verbo tener
+## Verbos (ser)
+
+![tener](images/verbo_ser.jpg)
+
+----
+
+## Verbos (tener)
 
 ![tener](images/verbo_tener.bmp)
 
---- 
+----
+
+## Verbos (estar)
+
+![](images/verbo_estar.jpg)
+
+----
+
+## Verbos (ser y tener)
+
+![](images/ser_estar.png) 
+
+---
 
 ## Género
 
@@ -76,7 +94,7 @@ Vamos a aprender español de España!
 
 ----
 
-## Género (2)
+## Género y número
 
 ![genero_y_numero](images/genero_y_numero.bmp)
 
@@ -100,3 +118,61 @@ Vamos a aprender español de España!
 ![genero_frutas](images/genero_frutas.bmp)
 
 ----
+
+## Género (excepciones)
+
+![nombres_peculiares](images/nombres_peculiares.jpg)
+
+---
+
+## Adjetivos (género y número)
+
+SIEMPRE concuerdan con los nombres que acompañan en género (masculino o femenino) y número (singular o plural).
+
+Mira el siguiente ejemplo:
+
+* Laura tiene una casa preciosa en el campo. (fem. singular)
+* Luis vive con tres perros preciosos en su casa del campo. (masc. plural)
+
+Como puedes ver, el adjetivo PRECIOSO cambia si tiene delante una palaba femenina/masculina, o singular/plural.
+
+----
+
+## Adjetivos
+
+También, existen adjetivos que no cambian de forma por género (masculino/femenino) sino solo por el número (singular/plural), como en el siguiente ejemplo:
+
+– Ella es una estudiante muy inteligente. vs. Mis hermanas son muy inteligentes.
+– Este chico es muy feliz. vs. Sus hermanos también son muy felices.
+
+----
+
+## Adjetivos (sin cambio de género)
+
+A continuación, te indicamos una lista de los adjetivos que no cambian de género según su terminación:
+
+– terminados en -e → obediente (niño obediente o niña obediente)
+– terminados en -z → feliz (mujer feliz; hombre feliz)
+– terminados en -a → hipócrita (Juan es un hipócrita. Ana es hipócrita)
+– terminados en -i → marroquí (Amira es marroquí pero él no es marroquí)
+– terminados en -u → hindú. (Lucas es hindú pero su madre no es hindú.)
+– terminados en consonante → difícil, familiar, fácil. (Ana es familiar, Juan es familiar)
+– cardinales → dos, tres, cinco. (cinco botellas; cinco libros).
+
+----
+
+## Adjetivos comunes (1)
+
+![](images/50-adjetivos-más-usados_1.jpg)
+
+----
+
+## Adjetivos comunes (2)
+
+![](images/50-adjetivos-más-usados_2.jpg)
+
+---
+
+## Vocabulario (Familia)
+
+![](images/familia.jpg)
