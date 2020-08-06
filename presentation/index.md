@@ -88,7 +88,7 @@ Vamos a aprender español de España!
 
 ----
 
-## Verbos (ser y tener)
+## Verbos (ser y estar)
 
 ![](images/ser_estar.png) 
 
