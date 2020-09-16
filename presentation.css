@@ -13,7 +13,7 @@ img {
 }
 
 img:not(.emoji) {
-    height: 200pt !important;
+    height: 350pt !important;
 }
 
 img.small {
