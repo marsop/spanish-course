@@ -1,6 +1,6 @@
 # Spanish Course
 
-Link: [https://alberto.gregorio.pages.git.phios.li/curso-de-espa-ol/#/5/3]
+Link: [https://alberto.gregorio.pages.git.phios.li/curso-de-espa-ol/]
 
 Presentation: Spanish Course
 
