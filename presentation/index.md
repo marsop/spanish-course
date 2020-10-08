@@ -139,6 +139,24 @@ Vamos a aprender español de España!
 
 ---
 
+## Acentuación
+
+![acentos](images/acentos.png)
+
+----
+
+## Tilde diacrítica
+
+![tilde diacritica](images/tilde-diacritica.jpg)
+
+----
+
+## Diptongos e hiatos
+
+![diptongos hiatos](images/diptongo-hiato.jpg)
+
+---
+
 ## Adjetivos (género y número)
 
 SIEMPRE concuerdan con los nombres que acompañan en género (masculino o femenino) y número (singular o plural).
