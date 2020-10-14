@@ -16,13 +16,17 @@ highlight-theme: github
 
 "Spanish is the majority language in 21 sovereign states and several dependent territories, totaling around 440 million people."
 
+Vamos a aprender español de España!
+
+----
+
+## El Español en el mundo
+
 ![world](images/spanish_in_world.bmp)
 
 ----
 
-## Comunidades Autónomas (17 + 2)
-
-Vamos a aprender español de España!
+### Comunidades Autónomas (17 + 2)
 
 ![spain](images/spain.bmp)
 
@@ -46,88 +50,124 @@ Vamos a aprender español de España!
 
 ---
 
-## Los Pronombres
+## Pronombres
+
+----
+
+### Los Pronombres
 
 ![pronombres](images/pronombres.bmp)
 
 ----
 
-## Los Pronombres (casos)
+### Los Pronombres (casos)
 
 ![pronombres2](images/pronombres2.bmp)
 
 ---
 
-## Los números (0-20)
+## Números
+
+----
+
+### Los números (0-20)
 
 ![uno_a_veinte](images/uno_a_veinte.bmp)
 
 ----
 
-## Los números (21-100)
+### Los números (21-100)
 
 ![uno_a_cien](images/uno_a_cien.bmp)
 
 ---
 
-## Verbos (ser)
+## Verbos*
+
+----
+
+### Verbos (ser)
 
 ![tener](images/verbo_ser.jpg)
 
 ----
 
-## Verbos (tener)
+### Verbos (tener)
 
 ![tener](images/verbo_tener.bmp)
 
 ----
 
-## Verbos (estar)
+### Verbos (estar)
 
 ![](images/verbo_estar.jpg)
 
 ----
 
-## Verbos (ser y estar)
+### Verbos (ser y estar) - Usos
 
 ![](images/ser_estar.png) 
 
-[ejercicios](https://aprenderespanol.org/verbos/ser-estar.html)
+----
+
+### Verbos (ser y estar) - Ejercicios
+
+[Link a los ejercicios](https://aprenderespanol.org/verbos/ser-estar.html)
+
+----
+
+### Verbos (gustar)
+
+![](images/verbo_gustar.jpg)
+
+---
+
+## Conjugaciones*
+
+----
+
+### Presente de indicativo
+
+![](images/verbo_presente_indicativo.png)
 
 ---
 
 ## Género
 
+----
+
+### Masculino y Femenino
+
 ![genero_masculino_femenino](images/genero_masculino_femenino.bmp)
 
 ----
 
-## Género y número
+### Género y número
 
 ![genero_y_numero](images/genero_y_numero.bmp)
 
 ----
 
 
-## Género (personas)
+### Género (personas)
 
 ![genero_personas](images/genero_personas.bmp)
 
 ----
 
-## Género (cosas)
+### Género (cosas)
 
 ![genero_de_las_cosas](images/genero_de_las_cosas.bmp)
 
 ----
 
-## Género (frutas)
+### Género (frutas)
 
 ![genero_frutas](images/genero_frutas.bmp)
 
 ----
 
-## Género (excepciones)
+### Género (excepciones)
 
 ![nombres_peculiares](images/nombres_peculiares.jpg)
 
@@ -141,29 +181,37 @@ Vamos a aprender español de España!
 
 ## Acentuación
 
+----
+
+### Acentos
+
 ![acentos](images/acentos.png)
 
 ----
 
-## Tilde diacrítica
+### Tilde diacrítica
 
 ![tilde diacritica](images/tilde-diacritica.jpg)
 
 ----
 
-## Diptongos e hiatos
+### Diptongos e hiatos
 
 ![diptongos hiatos](images/diptongo-hiato.jpg)
 
 ---
 
-## Adjetivos (género y número)
+## Adjetivos
+
+----
+
+### Género y número
 
 SIEMPRE concuerdan con los nombres que acompañan en género (masculino o femenino) y número (singular o plural).
 
 ----
 
-## Adjetivos (ejemplo)
+### Adjetivos (ejemplo)
 
 * Laura tiene una casa **preciosa** en el campo. (fem. singular)
 * Luis vive con tres perros **preciosos** en su casa del campo. (masc. plural)
@@ -172,7 +220,7 @@ SIEMPRE concuerdan con los nombres que acompañan en género (masculino o femeni
 
 ----
 
-## Adjetivos
+### Adjetivos
 
 También, existen adjetivos que no cambian de forma por género (masculino/femenino) sino solo por el número (singular/plural)
 
@@ -183,7 +231,7 @@ También, existen adjetivos que no cambian de forma por género (masculino/femen
 
 ----
 
-## Adjetivos (sin cambio de género)
+### Adjetivos (sin cambio de género)
 
 A continuación, te indicamos una lista de los adjetivos que no cambian de género según su terminación:
 
@@ -193,7 +241,7 @@ A continuación, te indicamos una lista de los adjetivos que no cambian de géne
 
 ----
 
-## Adjetivos (sin cambio de género 2)
+### Adjetivos (sin cambio de género 2)
 
 * terminados en -i → marroquí (Amira es marroquí pero él no es marroquí)
 * terminados en -u → hindú. (Lucas es hindú pero su madre no es hindú.)
@@ -202,18 +250,50 @@ A continuación, te indicamos una lista de los adjetivos que no cambian de géne
 
 ----
 
-## Adjetivos comunes (1)
+### Adjetivos comunes (1)
 
 ![](images/50-adjetivos-más-usados_1.jpg)
 
 ----
 
-## Adjetivos comunes (2)
+### Adjetivos comunes (2)
 
 ![](images/50-adjetivos-más-usados_2.jpg)
 
 ---
 
-## Vocabulario (Familia)
+## Vocabulario*
+
+----
+
+### Vocabulario (Familia)
 
 ![](images/familia.jpg)
+
+----
+
+### Vocabulario (Frutas)
+
+![](images/vocabulario_frutas.png)
+
+---
+
+## Presentación* 
+
+----
+
+### Presentación (preguntas)
+
+![](images/presentarse.jpg)
+
+----
+
+### Presentación (ejemplo)
+
+![](images/presentacion_maria.jpg)
+
+----
+
+### Presentación (ejercicio)
+
+![](images/presentacio_bea.jpg)
