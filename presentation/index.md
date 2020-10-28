@@ -46,7 +46,23 @@ Vamos a aprender español de España!
 
 ## El alfabeto
 
+----
+
+### Las letras
+
 ![alfabeto](images/alfabeto.bmp)
+
+----
+
+### Pronunciación
+
+![pronunciacion](images/pronunciacion.png)
+
+----
+
+### Pronunciación (2)
+
+![pronunciacion2](images/pronunciacion2.png)
 
 ---
 
@@ -82,7 +98,7 @@ Vamos a aprender español de España!
 
 ---
 
-## Verbos*
+## Verbos
 
 ----
 
@@ -120,9 +136,16 @@ Vamos a aprender español de España!
 
 ![](images/verbo_gustar.jpg)
 
+----
+
+### Verbos (gustar - Ejercicios)
+
+[Link a los ejercicios](https://www.spanishunicorn.com/ejercicios-con-el-verbo-gustar/)
+
+
 ---
 
-## Conjugaciones*
+## Conjugaciones
 
 ----
 
@@ -262,7 +285,7 @@ A continuación, te indicamos una lista de los adjetivos que no cambian de géne
 
 ---
 
-## Vocabulario*
+## Vocabulario
 
 ----
 
@@ -272,13 +295,25 @@ A continuación, te indicamos una lista de los adjetivos que no cambian de géne
 
 ----
 
+### Vocabulario (Ropa 1)
+
+![](images/ropa1.jpg)
+
+----
+
+### Vocabulario (Ropa 2)
+
+![](images/ropa2.png)
+
+----
+
 ### Vocabulario (Frutas)
 
 ![](images/vocabulario_frutas.png)
 
 ---
 
-## Presentación* 
+## Presentación
 
 ----
 
@@ -297,3 +332,38 @@ A continuación, te indicamos una lista de los adjetivos que no cambian de géne
 ### Presentación (ejercicio)
 
 ![](images/presentacio_bea.jpg)
+
+
+---
+
+## Descripción
+
+----
+
+### Descripción física
+
+![](images/descripcion_fisica.jpg)
+
+----
+
+### Descripción física (2)
+
+![](images/descripcion_fisica2.jpg)
+
+----
+
+### Descripción de personalidad
+
+![](images/descripcion_personalidad.png)
+
+----
+
+### Descripción de personalidad (2)
+
+![](images/describir_personas.jpg)
+
+----
+
+### Descripción (ejercicio)
+
+![](images/quien_es_quien.jpg)
