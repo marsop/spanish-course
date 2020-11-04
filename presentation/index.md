@@ -98,7 +98,7 @@ Vamos a aprender español de España!
 
 ---
 
-## Verbos
+## Verbos *
 
 ----
 
@@ -142,6 +142,20 @@ Vamos a aprender español de España!
 
 [Link a los ejercicios](https://www.spanishunicorn.com/ejercicios-con-el-verbo-gustar/)
 
+
+----
+
+### Verbos irregulares *
+
+![Verbos irregulares](images/verbos_irregulares.jpg)
+
+----
+
+### Verbos más usados *
+
+![](images/verbos_mas_usados.png)
+
+[Una lista mejor](https://lenguajeyotrasluces.com/2016/01/11/lista-de-verbos-mas-usados-en-espanol/)
 
 ---
 
@@ -196,9 +210,69 @@ Vamos a aprender español de España!
 
 ---
 
+## El Tiempo *
+
+----
+
 ## Hora y fecha
 
 ![hora_fecha](images/hora_fecha.jpg)
+
+----
+
+## Los meses 
+
+![](images/meses.jpg)
+
+----
+
+## Adverbios temporales *
+
+![adverbios temporales](images/adverbios_temporales.png)
+
+----
+
+## Adverbios de frecuencia absoluta
+
+- (casi) siempre - (fast) immer
+- la mayoría de las veces - meistens
+- la mayoría de las veces - normalarweise
+- frecuentemente - häufig
+- frecuentemente - oft
+- en ocasiones - ab und zua veces - manchmal
+- pocas veces - selten
+- (casi) nunca - (fast) nie
+
+----
+
+### Adverbios de frecuencia diaria
+
+- por las mañanas - morgens
+- por las tardes (después de comer) - nachmittags
+- por las tardes - abends
+- por las noches - nachts
+
+----
+
+### Adverbios de frecuencia semanal
+
+- los lunes - montags
+- los martes - dienstags
+- los miércoles - mittwochs
+- los jueves - donnerstags
+- los viernes - freitags
+- los sábados - samstags
+- los domingos - sonntags
+
+----
+
+### Otros Adverbios de frecuencia
+
+- diariamente - täglich
+- semanalmente - wöchentlich
+- mensualmente - monatlich
+- anualmente - jährlich
+
 
 ---
 
