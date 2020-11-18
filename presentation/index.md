@@ -98,7 +98,7 @@ Vamos a aprender español de España!
 
 ---
 
-## Verbos *
+## Verbos
 
 ----
 
@@ -145,13 +145,13 @@ Vamos a aprender español de España!
 
 ----
 
-### Verbos irregulares *
+### Verbos irregulares
 
 ![Verbos irregulares](images/verbos_irregulares.jpg)
 
 ----
 
-### Verbos más usados *
+### Verbos más usados
 
 ![](images/verbos_mas_usados.png)
 
@@ -210,7 +210,7 @@ Vamos a aprender español de España!
 
 ---
 
-## El Tiempo *
+## El Tiempo
 
 ----
 
@@ -220,13 +220,13 @@ Vamos a aprender español de España!
 
 ----
 
-## Los meses 
+## Los meses
 
-![](images/meses.jpg)
+![los meses](images/meses.jpg)
 
 ----
 
-## Adverbios temporales *
+## Adverbios temporales
 
 ![adverbios temporales](images/adverbios_temporales.png)
 
@@ -377,13 +377,72 @@ A continuación, te indicamos una lista de los adjetivos que no cambian de géne
 
 ### Vocabulario (Ropa 2)
 
-![](images/ropa2.png)
+![ropa2](images/ropa2.png)
 
 ----
 
 ### Vocabulario (Frutas)
 
-![](images/vocabulario_frutas.png)
+![frutas](images/vocabulario_frutas.png)
+
+
+----
+
+### Vocabulario (Colores)
+
+![colores](images/colores.jpg)
+
+
+---
+
+## Dictados
+
+----
+
+## Mamá fontanera
+
+[Texto (Página 13)](https://agora.xtec.cat/afapremia/wp-content/uploads/usu1270/2016/06/EDUCACION-PERMANENTE-90-LECTURAS.pdf)
+
+---
+
+## Direcciones
+
+----
+
+### Direcciones básicas
+
+![](images/direcciones_basicas.png)
+
+----
+
+### Edificios
+
+![](images/edificios.bmp)
+
+----
+
+### Medios de transporte
+
+![](images/medios_de_transporte.bmp)
+
+----
+
+### Pedir direcciones
+
+![](images/pedir_direcciones.bmp)
+
+----
+
+### Indicar direcciones
+
+![](images/indicar_direcciones.bmp)
+
+----
+
+### Ejemplo ciudad
+
+![](images/ejemplo_ciudad.bmp)
+
 
 ---
 
