@@ -167,6 +167,12 @@ Vamos a aprender español de España!
 
 ![](images/verbo_presente_indicativo.png)
 
+----
+
+### Ejercicios (Conjugaciones en presente)
+
+[](https://www.spanishunicorn.com/verbos-regulares-en-espanol-ejercicios/)
+
 ---
 
 ## Género
@@ -395,7 +401,7 @@ A continuación, te indicamos una lista de los adjetivos que no cambian de géne
 
 ---
 
-## Dictados
+## Dictados *
 
 ----
 
@@ -405,7 +411,7 @@ A continuación, te indicamos una lista de los adjetivos que no cambian de géne
 
 ---
 
-## Direcciones
+## Direcciones * 
 
 ----
 
@@ -500,3 +506,19 @@ A continuación, te indicamos una lista de los adjetivos que no cambian de géne
 ### Descripción (ejercicio)
 
 ![](images/quien_es_quien.jpg)
+
+---
+
+## Recomendaciones *
+
+----
+
+### Podcasts
+
+- [Hoy Hablamos](https://www.hoyhablamos.com)
+
+----
+
+### Películas
+
+- []
