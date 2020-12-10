@@ -516,6 +516,7 @@ A continuación, te indicamos una lista de los adjetivos que no cambian de géne
 ### Podcasts
 
 - [Hoy Hablamos](https://www.hoyhablamos.com)
+- [Notes in spanish](https://www.notesinspanish.com/)
 
 ----
 
