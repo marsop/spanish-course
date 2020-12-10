@@ -159,7 +159,7 @@ Vamos a aprender español de España!
 
 ---
 
-## Conjugaciones
+## Conjugaciones *
 
 ----
 
@@ -171,7 +171,7 @@ Vamos a aprender español de España!
 
 ### Ejercicios (Conjugaciones en presente)
 
-[](https://www.spanishunicorn.com/verbos-regulares-en-espanol-ejercicios/)
+[ejercicio](https://www.spanishunicorn.com/verbos-regulares-en-espanol-ejercicios/)
 
 ---
 
